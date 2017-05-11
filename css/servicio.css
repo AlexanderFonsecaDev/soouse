@@ -1,0 +1,29 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    background-image: url(../img/bg.jpg);
+    font-family: 'Titillium Web', sans-serif;
+    overflow: hidden;
+}
+
+section{
+    display: flex;
+    align-content: center;
+}
+
+section .contendor-servicio{
+    width: 100%;
+    max-width: 1000px;
+    margin: 20px auto;
+}
+
+section .contendor-servicio .titulo-servicio{
+    text-align: center;
+}
+
+section .contendor-servicio .descripcion-servicio{
+    text-align: center;
+}

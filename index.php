@@ -103,7 +103,7 @@
     <div class="menu-list">
       <ul>
         <li class="menu-button draw">Inicio</li>
-        <li class="menu-button draw">Servicios</li>
+          <a href="html/somos.php"><li class="menu-button draw">Servicios</li></a>
         <li class="menu-button draw">Portafolio</li>
         <li class="menu-button draw">Contacto</li>
       </ul>
